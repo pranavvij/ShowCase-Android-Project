@@ -9,6 +9,8 @@ This Project contains showcaselibrary2 as the library which needs to be imported
 *  Position AnyWhere TextHint
 
 
+
+
  ``` 
 Rect point=WooplrShowCaseView.locateView(View);
 WooplrShowCaseView showcase=new WooplrShowCaseView(View.getWidth(),View.getHeight(),ViewIconShowcase.this,getApplicationContext(),getWindow(),point.right,point.bottom);
