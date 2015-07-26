@@ -16,6 +16,7 @@ wooplrShowCaseView.setText("Hello World",WooplrShowCaseView.TOPRIGHT,getSupportF
 ```
  
 Setting Position of TextHint is simple just set WooplrShowCaseView.direction
+Where direction can be:-
 
 * TOPLEFT
 * TOP
