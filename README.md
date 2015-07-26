@@ -9,6 +9,9 @@ This Project contains showcaselibrary2 as the library which needs to be imported
 *  Position AnyWhere TextHint
 
 
- ```WooplrShowCaseView wooplrShowCaseView=new       WooplrShowCaseView(imageView.getWidth(),imageView.getHeight(),ImageViewIconShowcase.this,getApplicationContext(),getWindow(),poi nt.right,point.bottom);
- wooplrShowCaseView.setText("Hello World",WooplrShowCaseView.TOPRIGHT,getSupportFragmentManager());```
+ ``` 
+Rect point=WooplrShowCaseView.locateView(imageView);
+WooplrShowCaseView wooplrShowCaseView=new          WooplrShowCaseView(View.getWidth(),View.getHeight(),ViewIconShowcase.this,getApplicationContext(),getWindow(),poi    nt.right,point.bottom);
+wooplrShowCaseView.setText("Hello World",WooplrShowCaseView.TOPRIGHT,getSupportFragmentManager());
+```
  
