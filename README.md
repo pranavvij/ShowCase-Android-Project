@@ -15,3 +15,15 @@ WooplrShowCaseView showcase=new WooplrShowCaseView(View.getWidth(),View.getHeigh
 wooplrShowCaseView.setText("Hello World",WooplrShowCaseView.TOPRIGHT,getSupportFragmentManager());
 ```
  
+Setting Position of TextHint is simple just set WooplrShowCaseView.direction
+
+* TOPLEFT
+* TOP
+* TOPRIGHT
+* RIGHT
+* BOTTOMRIGHT
+* BOTTOM
+* BOTTOMLEFT
+* LEFT
+
+
