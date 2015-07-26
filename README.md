@@ -10,8 +10,8 @@ This Project contains showcaselibrary2 as the library which needs to be imported
 
 
  ``` 
-Rect point=WooplrShowCaseView.locateView(imageView);
-WooplrShowCaseView wooplrShowCaseView=new          WooplrShowCaseView(View.getWidth(),View.getHeight(),ViewIconShowcase.this,getApplicationContext(),getWindow(),poi    nt.right,point.bottom);
+Rect point=WooplrShowCaseView.locateView(View);
+WooplrShowCaseView showcase=new WooplrShowCaseView(View.getWidth(),View.getHeight(),ViewIconShowcase.this,getApplicationContext(),getWindow(),point.right,point.bottom);
 wooplrShowCaseView.setText("Hello World",WooplrShowCaseView.TOPRIGHT,getSupportFragmentManager());
 ```
  
