@@ -5,8 +5,8 @@ This Project contains showcaselibrary2 as the library which needs to be imported
 *  ImageView Icon ShowCase
 *  Toolbar Icon ShowCase
 *  Over Another Activity
-*  More than one TextHint
 *  Position AnyWhere TextHint
+*  More than one TextHint
 
 
 
