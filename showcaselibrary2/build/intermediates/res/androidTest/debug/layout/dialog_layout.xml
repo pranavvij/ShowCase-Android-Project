@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:flip="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <com.example.pranavvij.showcaselibrary.FlipImage
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/popper"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
+<!-- From: file:/D:/MyApplication6/ShowCaseLibrary/showcaselibrary2/src/main/res/layout/dialog_layout.xml --><!-- From: file:/D:/MyApplication6/ShowCaseLibrary/showcaselibrary2/build/intermediates/bundles/debug/res/layout/dialog_layout.xml -->

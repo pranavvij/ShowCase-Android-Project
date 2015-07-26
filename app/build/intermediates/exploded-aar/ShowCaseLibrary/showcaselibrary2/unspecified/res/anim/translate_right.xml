@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <alpha
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:fromAlpha="0.0"
+        android:toAlpha="1.0"
+        android:duration="400" />
+
+    <translate xmlns:android="http://schemas.android.com/apk/res/android"
+        android:fromXDelta="50%p"
+        android:toXDelta="0%p"
+        android:duration="@android:integer/config_longAnimTime"/>
+</set><!-- From: file:/D:/MyApplication6/ShowCaseLibrary/showcaselibrary2/src/main/res/anim/translate_right.xml -->

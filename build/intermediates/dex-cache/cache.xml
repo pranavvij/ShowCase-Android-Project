@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\MyApplication6\ShowCaseLibrary\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="D:\MyApplication6\ShowCaseLibrary\app\build\intermediates\pre-dexed\debug\classes-a6da84ff1e39b543a6d41394d75bb927f5a47e0e.jar" />
+    </item>
+    <item
+        jar="D:\MyApplication6\ShowCaseLibrary\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\MyApplication6\ShowCaseLibrary\app\build\intermediates\pre-dexed\debug\classes-05d2c2607ebec655ec523c41f14750f0b8c5d9c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\pranav vij\Desktop\android studio\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\MyApplication6\ShowCaseLibrary\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-1be1aad382303825c7182bacd8ed1f30fb80b0ad.jar" />
+    </item>
+    <item
+        jar="D:\MyApplication6\ShowCaseLibrary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\MyApplication6\ShowCaseLibrary\app\build\intermediates\pre-dexed\debug\classes-740155d8d0892e64b29f7def9bdf39274e6dc114.jar" />
+    </item>
+    <item
+        jar="D:\MyApplication6\ShowCaseLibrary\app\build\intermediates\exploded-aar\ShowCaseLibrary\showcaselibrary2\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="78ba2d15a3f30b91cbb7daaf7e8f377fb27d03ec">
+        <dex dex="D:\MyApplication6\ShowCaseLibrary\app\build\intermediates\pre-dexed\debug\classes-ad6d6298b224d39c5f786a46c77e473e7ce32065.jar" />
+    </item>
+    <item
+        jar="D:\MyApplication6\ShowCaseLibrary\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\MyApplication6\ShowCaseLibrary\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-49fab1df7c30515fab022836bb0d200b60a8a3b3.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,20 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/cyan_500"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="play.decisio.com.showcaselibrary.ToolbarIconshowCase">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:background="@color/primarycolor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/back"
+            android:src="@drawable/abc_ic_ab_back_mtrl_am_alpha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </android.support.v7.widget.Toolbar>
+</RelativeLayout>
+<!-- From: file:/D:/MyApplication6/ShowCaseLibrary/app/src/main/res/layout/activity_toolbar_iconshow_case.xml -->

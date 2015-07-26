@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/MyApplication6/ShowCaseLibrary/showcaselibrary2/build/intermediates/bundles/debug/res/values-w820dp-v13/values.xml -->
+    <eat-comment/>
+    <color name="black">#000000</color>
+    <color name="blue">#5C6BC0</color>
+    <color name="cyan_500">#00bcd4</color>
+    <color name="darkblue">#2196F3</color>
+    <color name="indigo_500">#3f51b5</color>
+    <color name="indigo_700">#303f9f</color>
+    <color name="lightblue">#E3F2FD</color>
+    <color name="primarycolor">#673AB7</color>
+    <color name="primarycolorDark">#512DA8</color>
+    <color name="primarylightcolor">#469DB8</color>
+    <color name="red">#3690</color>
+    <color name="theme_dialer_primary">#0288D1</color>
+    <color name="transparent_black">#55000000</color>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="CircleButton">
+        <attr format="color" name="cb_color"/>
+        <attr format="dimension" name="cb_pressedRingWidth"/>
+    </declare-styleable>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="dialog_animation_fade_right">
+        <item name="android:windowEnterAnimation">@anim/translate_right</item>
+        <item name="android:windowExitAnimation">@anim/translate_end_right</item>
+    </style>
+</resources>

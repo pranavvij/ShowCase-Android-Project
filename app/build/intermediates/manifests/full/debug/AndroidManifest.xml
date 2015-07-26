@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="play.decisio.com.showcaselibrary"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="play.decisio.com.showcaselibrary.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="play.decisio.com.showcaselibrary.ImageViewIconShowcase"
+            android:label="@string/title_activity_image_view_icon_showcase" >
+        </activity>
+        <activity
+            android:name="play.decisio.com.showcaselibrary.ToolbarIconshowCase"
+            android:label="@string/title_activity_toolbar_iconshow_case"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name="play.decisio.com.showcaselibrary.overAnotherActivity"
+            android:label="@string/title_activity_over_another" >
+        </activity>
+        <activity
+            android:name="play.decisio.com.showcaselibrary.TransparentAactivity"
+            android:label="@string/title_activity_transparent_aactivity"
+            android:theme="@style/AppTheme.Transparent" >
+        </activity>
+        <activity
+            android:name="play.decisio.com.showcaselibrary.MoreThanOneHintActivity"
+            android:label="@string/title_activity_more_than_one_hint" >
+        </activity>
+        <activity
+            android:name="play.decisio.com.showcaselibrary.AnyWhereHintActivity"
+            android:label="@string/title_activity_any_where_hint" >
+        </activity>
+    </application>
+
+</manifest>
